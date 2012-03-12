@@ -1,6 +1,2 @@
-(ns battle.test.core
-  (:use [battle.core])
-  (:use [clojure.test]))
+(ns battle.test.core)
 
-(deftest replace-me ;; FIXME: write
-  (is false "No tests have been written."))
